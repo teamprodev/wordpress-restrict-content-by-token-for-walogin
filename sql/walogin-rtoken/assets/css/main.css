@@ -1,0 +1,51 @@
+.wl-r-container {
+  background: #083b5c;
+  border-radius: 25px;
+  color: #fff;
+  padding: 15px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.wl-r-container a {
+  color: #fff;
+}
+
+.wl-r-container .wl-r-page-title {
+  font-weight: bold;
+  font-size: 28px;
+  color: #fff;
+}
+
+.wl-r-container .wl-r-row {
+  margin-bottom: 15px;
+}
+
+.wl-r-container .wl-r-row .wl-r-title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.wl-r-container .wl-r-row .wl-r-desc {
+  font-size: 20px;
+}
+
+.wl-r-container .wl-r-row .wl-r-collections {
+  margin-top: 5px;
+}
+
+.wl-r-container .wl-r-row .wl-r-collections .wl-r-collection {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.wl-r-container .wl-r-row .wl-r-collections .wl-r-collection:first-child {
+  border-top: 1px solid #fff;
+}
+
+.wl-r-container .wallet-name {
+  color: #222222;
+}
+/*# sourceMappingURL=main.css.map */
